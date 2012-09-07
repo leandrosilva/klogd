@@ -1,0 +1,6 @@
+.DS_Store
+*.class
+*.pyc
+build/
+dist/
+klog.egg-info/
